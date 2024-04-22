@@ -1,5 +1,5 @@
-from Leccion1.Color import Color
-from Leccion1.FiguraGeometrica import FiguraGeometrica
+from Color import Color
+from FiguraGeometrica import FiguraGeometrica
 
 
 class Rectangulo(FiguraGeometrica, Color):
@@ -11,4 +11,4 @@ class Rectangulo(FiguraGeometrica, Color):
         return self.alto * self.ancho
 
     def __str__(self):
-        return f"{FiguraGeometrica.__str__(self)}{Color.__str__(self)}"
+        return f"{FiguraGeometrica.__str__(self)} {Color.__str__(self)}"
