@@ -1,0 +1,9 @@
+Parte 1
+No es exactamente el mismo concepto de constantes que en otros lenguajes de promgramación, sino que en Python simplemente no existe el concepto de constantes en Python tal cual.
+El concepto de constante tiene que ver con definir una variable y que no podamos modificar su valor, una vez que le hemos asignado el valor a esta variablr, ese concepto tal cual no existe en Python.
+Asi que en python a cualquier variable le podemos volver a asignar un valor. Sin embargo, existe una convención para trabajar el concepto de constantes y poder simular este concepto en python.
+El nombre de la variable debe describirse en mayúsculas, esto es parte de la convención. Asi que una constante para poder identificarla, en primer lugar, definimos el nombre de la variable. Por ejemplo, en este caso constante.
+Y si el nombre de la variable tiene más de una palabra, entonces, por ejemplo si tenemos MI_CONSTANTE, vamos a separar cada palabra por guion bajo, esto es parte de la convención para definir el nombre de una constante.
+
+Parte 2
+Ahora se acostumbra a que estas variables, que son constantes, se definan en un archivo, en un módulo por separado y se utilicen fuera de este módulo.
