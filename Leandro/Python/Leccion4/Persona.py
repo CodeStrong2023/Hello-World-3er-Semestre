@@ -1,0 +1,17 @@
+class Persona:
+    def __init__(self,nombre,edad):
+        self.nombre = nombre
+        self.edad = edad
+    
+    def __add__(self, other): #Other significa = otro
+        return self.nombre + other.nombre
+    
+    def __sub__(self, otro): #sub significa = subtraccion (resta)
+        return self.edad -otro.edad
+    
+persona1 = Persona('Leandro', 25)
+persona2 = Persona('Eugenio')
+
+# persona1.__add__(persona2) sintaxis interna y automatica
+
+print(persona1 + persona2)
