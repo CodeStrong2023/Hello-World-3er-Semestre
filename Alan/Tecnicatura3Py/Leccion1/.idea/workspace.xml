@@ -5,8 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dadba83b-993c-413f-9873-c1e73797bd2a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leccion2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leccion2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/ar/com/system2023/mundopc/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/ar/com/system2023/mundopc/DispositivoEntrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/ar/com/system2023/mundopc/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/ar/com/system2023/mundopc/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/ar/com/system2023/mundopc/Raton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/ar/com/system2023/mundopc/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/MundoPC/src/mundopc/mundoPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Java/Leccion01/laboratorio.uxf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tecnicatura3Js/TSLeccion01/01-03-ciclos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cuadrado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiguraGeometrica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herenciaMultiple.uxf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_figura_geometrica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/Orden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/Producto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/test_ordenes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,7 +58,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/MegaTecnologia/Hello-World-3er-Semestre/Flor Carballo/Python/Leccion1"
   }
 }]]></component>

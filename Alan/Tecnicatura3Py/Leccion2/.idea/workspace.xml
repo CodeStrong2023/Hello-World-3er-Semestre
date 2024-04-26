@@ -26,6 +26,9 @@
       <change afterPath="$PROJECT_DIR$/../Leccion1/FiguraGeometrica.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Leccion1/herenciaMultiple.uxf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Leccion1/test_figura_geometrica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/Orden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/Producto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/test_ordenes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MegaTecnologia/Tecnicatura2024/Alan/Tecnicatura3Py/Leccion1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MegaTecnologia/Tecnicatura2024/Alan/Tecnicatura3Py/Leccion1"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Persona">
     <configuration name="MiClase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leccion2" />
