@@ -81,13 +81,13 @@ class Empleado extends Persona{ // Clase hija
 
 }
 
-let persona1 = new Persona('Leandro', 'Eugenio');
+let persona1 = new Persona('Martina', 'Gonzalez');
 console.log(persona1.nombre);
-persona1.nombre = 'Leo';
+persona1.nombre = 'Sol';
 console.log(persona1.nombre);
 //console.log(persona1);
 console.log(persona1._apellido);
-persona1.apellido = 'Figueroa';
+persona1.apellido = 'Lazaro';
 console.log(persona1.apellido);
 
 let persona2 = new Persona('Carlos', 'Lara');
@@ -104,3 +104,39 @@ let empleado1 = new Empleado('Maria', 'Gimenez', 'Sistemas');
 console.log(empleado1);
 
 console.log(empleado1.nombreCompleto()); // Se hereda el metodo de la clase padre
+
+//Object.prototype.toString Esta es la manera de acceder a atributos y metodos de forma dinámica
+console.log(empleado1.toString());
+console.log(persona1.toString());
+/* ======= */
+console.log(empleado1.nombre); // Se hereda el metodo Get de la clase padre
+
+                                    /******** Clase 7 *********/
+
+Persona.saludar();
+Persona.saludar2(persona1);
+
+/* console.log(persona1.contadorObjetosPersona); */
+console.log('\n contador clase padre: ' + Persona.contadorPersona)
+console.log('contador clase hija: ' + Empleado.contadorPersona)
+
+/* console.log(persona1.email)
+ *//* console.log(empleado1.email) */
+/* console.log(Persona.email)  No se puede acceder desde la clase */
+
+console.log(persona1.toString())
+console.log(empleado1.toString())
+console.log(Persona.contadorPersona)
+
+let persona3 = new Persona('Carla', 'Lara')
+console.log(persona3.toString())
+console.log(Persona.contadorPersona)
+console.log('\n contador clase padre: ' + Persona.contadorPersona)
+console.log('contador clase hija: ' + Empleado.contadorPersona)
+
+console.log('Límite de personas: ' + Persona.MAX_OBJ)
+
+/* Persona.MAX_OBJ = 8   No se puede modificar ni alterar */
+let persona4 = new Persona('Juan', 'Fernandez')
+let persona5 = new Persona('Pedro', 'Picapiedra')
+console.log(persona5.toString())
