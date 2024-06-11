@@ -1,0 +1,6 @@
+como por ejemplo: acción,ejecución y producción
+Las letras osn : 
+ r read, 
+ append anexa, 
+ w write escribe,
+ x crea un archivoCon esto terminamos
