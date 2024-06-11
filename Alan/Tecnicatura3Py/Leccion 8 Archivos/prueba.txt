@@ -1,0 +1,13 @@
+Programamos con diferentes tipos de archivos, ahora en txt.
+Los acentos son importantes para las palabras
+Como por ejemplo: acción, ejecución y producción
+Las letras son: 
+r read, 
+a append anexa, 
+w write, 
+x crea un archivo
+t esta es para texto o text, 
+b archivos binarios, 
+w+ leer y escribir, son iguales r+
+Con esto terminamos
+Saludamos a todos los alumnos de la tecnicatura
