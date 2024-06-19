@@ -3,3 +3,50 @@
 10:35:28 PM:WARNING [logger_base.py:15] Mensaje a nivel warning
 10:35:28 PM:ERROR [logger_base.py:16] Mensaje a nuvel error
 10:35:28 PM:CRITICAL [logger_base.py:17] Mensaje a nivel critical
+03:29:56 PM:DEBUG [Persona.py:55] 
+            Id persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@gmail.com
+        
+03:32:24 PM:DEBUG [Persona.py:55] 
+            Id persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@gmail.com
+        
+03:32:38 PM:DEBUG [Persona.py:55] 
+            Id persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@gmail.com
+        
+03:32:38 PM:DEBUG [Persona.py:57] 
+            Id persona: Rufi,
+            Nombre: Carballo,
+            Apellido: ruficarballo@gmail.com,
+            Email: None
+        
+03:33:59 PM:DEBUG [Persona.py:55] 
+            Id persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@gmail.com
+        
+03:33:59 PM:DEBUG [Persona.py:57] 
+            Id persona: None,
+            Nombre: Rufi,
+            Apellido: Carballo,
+            Email: ruficarballo@gmail.com
+        
+03:33:59 PM:DEBUG [Persona.py:59] 
+            Id persona: 1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+03:52:40 PM:DEBUG [Conexion.py:23] Conexión Exitosa: <connection object at 0x000001C1EF123450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+03:54:36 PM:DEBUG [Conexion.py:23] Conexión Exitosa: <connection object at 0x000001DF3DFE3450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+03:54:36 PM:ERROR [Conexion.py:39] Ocurrió un error: 'NoneType' object has no attribute 'cursor'
+04:05:31 PM:DEBUG [Conexion.py:24] Conexión Exitosa: <connection object at 0x00000215D10D3450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+04:05:31 PM:DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <cursor object at 0x00000215D325D700; closed: 0>
