@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad55a6fd-e07a-4a04-a9fb-bb1c73131c82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Computadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Computadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/DispositivoEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/DispositivoEntrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Orden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Orden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Raton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Raton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/ar/com/system2023/mundopc/Teclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/mundopc/MundoPc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/MundoPc/src/mundopc/MundoPc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion01/laboratorio.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion01/laboratorio.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/src/test/TestArgumentosVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Argumentos/src/test/TestArgumentosVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/src/domain/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/src/domain/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/src/test/TestBloqueInicializaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/BloquesInicializaciones/src/test/TestBloqueInicializaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/src/enumeraciones/Continentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/src/enumeraciones/Continentes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/src/enumeraciones/Dias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/src/enumeraciones/Dias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/src/test/TestEnumeraciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion02/Enumeraciones/src/test/TestEnumeraciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/src/test/TestAutoboxingUnboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/AutoboxingUnboxing/src/test/TestAutoboxingUnboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/src/domain/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/src/domain/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/src/test/TestForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ForEach/src/test/TestForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/Clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/Clase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/Clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/Clase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/ClaseHija2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/ClaseHija2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/TestDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete1/TestDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete2/Clase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete2/Clase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete2/Clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/paquete2/Clase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/test/TestModificadoresAcceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion03/ModificadoresAcceso/src/test/TestModificadoresAcceso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/src/domain/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/src/domain/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/src/domain/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/src/domain/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/src/test/TestInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/InstanceOf/src/test/TestInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/src/domain/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/src/domain/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/src/domain/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/src/domain/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/src/test/TestSobreescritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion04/Sobreescrituraa/src/test/TestSobreescritura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/src/domain/FiguraGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/src/domain/FiguraGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/src/domain/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/src/domain/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/src/test/TestAbstractas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ClaseAbstracta/src/test/TestAbstractas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/Escritor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/Escritor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/TipoEscritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/domain/TipoEscritura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/test/TestConversionObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/ConversionObjetos/src/test/TestConversionObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/Escritor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/Escritor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/TipoEscritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/domain/TipoEscritura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/test/TestClaseObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/Leccion05/JavaApplication43/src/test/TestClaseObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion02/02-03-arreglos.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion02/02-03-arreglos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion03/01-03-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion03/01-03-funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion04/01-04-Objetos.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion04/01-04-Objetos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion05/05-03-clases.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion05/05-03-clases.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion05/diagrama.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion05/diagrama.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLeccion05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLeccion05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/TSLección01/01-03-ciclos.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/TSLección01/01-03-ciclos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/Leccion02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/Leccion02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/ManejoArchivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/ManejoArchivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/archivos_con_with.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/archivos_con_with.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/copia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/copia.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/leer_archivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/leer_archivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/manejo_archivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/manejo_archivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Archivos/Leccion02/prueba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Archivos/Leccion02/prueba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/.idea/Excepciones.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/.idea/Excepciones.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/Leccion01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/Leccion01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/NumerosIgualesException.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/NumerosIgualesException.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Excepciones/Leccion01/manejo_excepciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Excepciones/Leccion01/manejo_excepciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/.idea/Leccion1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/.idea/Leccion1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/ClaseAbstracta.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/ClaseAbstracta.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/Color.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/Color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/Cuadrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/Cuadrado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/FiguraGeometrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/FiguraGeometrica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/Rectángulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/Rectángulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/Test_Figura_Geometrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/Test_Figura_Geometrica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/herenciaMultiple.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion1/herenciaMultiple.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/.idea/Leccion2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/.idea/Leccion2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Constantes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/Constantes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/MiClase.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/MiClase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/Persona.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/test_constantes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/test_constantes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/variablesDeClase.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion2/variablesDeClase.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/.idea/Leccion3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/.idea/Leccion3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/Orden.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/Orden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/Parte 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/Parte 1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/Producto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/Producto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/TestOrdenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/TestOrdenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/disenio_clase.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion3/disenio_clase.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/.idea/Leccion4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/.idea/Leccion4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/Persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/Persona.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion4/Sobrecarga_operadores.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion4/Sobrecarga_operadores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/.idea/Leccion5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/.idea/Leccion5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/Empleado.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/Empleado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/Gerente.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/Gerente.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/TestPolimorfismo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/TestPolimorfismo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion5/polimorfismo.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion5/polimorfismo.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/.idea/Leccion6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/.idea/Leccion6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/laboratorio.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/laboratorio.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/computadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/computadora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/dispositivo_entrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/dispositivo_entrada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/orden.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/orden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/raton.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/raton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/teclado.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/teclado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion6/mundo_pc/test_mundo_pc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Leccion6/mundo_pc/test_mundo_pc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CatalogoPeliculas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CatalogoPeliculas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dominio/Pelicula.py" beforeDir="false" afterPath="$PROJECT_DIR$/dominio/Pelicula.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peliculas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/peliculas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servicio/catalogo_peliculas.py" beforeDir="false" afterPath="$PROJECT_DIR$/servicio/catalogo_peliculas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_catalogo_peliculas.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_catalogo_peliculas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Practicas/piedrapapeltijera.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Practicas/piedrapapeltijera.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gqB3WnyBwLyucLFxYvtqiKaiOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_catalogo_peliculas.py">
+    <configuration name="Pelicula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CatalogoPeliculas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dominio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dominio/Pelicula.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_catalogo_peliculas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CatalogoPeliculas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_catalogo_peliculas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_catalogo_peliculas.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="CatalogoPeliculas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_catalogo_peliculas.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_catalogo_peliculas.py" />
+        <item itemvalue="Python.Pelicula" />
+        <item itemvalue="Python.test_catalogo_peliculas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad55a6fd-e07a-4a04-a9fb-bb1c73131c82" name="Changes" comment="" />
+      <created>1716415028439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716415028439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
