@@ -1,6 +1,6 @@
 package enumeraciones;
 
-public enum Dias { // Todos los elementos que agreguemos en una enumeración son Constantes en java(publica, estática y final).
+public enum Dias {
     LUNES,
     MARTES,
     MIERCOLES,
@@ -8,5 +8,5 @@ public enum Dias { // Todos los elementos que agreguemos en una enumeración son
     VIERNES,
     SABADO,
     DOMINGO
+    
 }
-

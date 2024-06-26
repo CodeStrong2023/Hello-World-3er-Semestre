@@ -1,18 +1,27 @@
 from Cuadrado import Cuadrado
-from Rectangulo import Rectangulo
+from FiguraGeometrica import FiguraGeometrica
+from Rectángulo import Rectangulo
 
-
-print('creacion del objeto clase cuadradro'.center(50,'_'))
-cuadrado1 = Cuadrado(5, "Azul")
-cuadrado1.alto = -10
-print(cuadrado1.ancho)
-print(cuadrado1.alto)
+print("Creación de objeto de clase Cuadrado".center(50, "_"))
+cuadrado1 = Cuadrado(8, "Azul")
+cuadrado1.alto = 7
+cuadrado1.ancho = 7
+# print(cuadrado1.ancho)
+# print(cuadrado1.alto)
 print(f"Cálculo del área del cuadrado: {cuadrado1.calcular_area()}")
 
-# MRO = Method Resolution Order
-print(Cuadrado.mro())
+#MRO = Method Resolution Order
+# print(Cuadrado.mro())
+
 print(cuadrado1)
-print('creacion del objeto clase cuadradro'.center(50,'_'))
-rectangulo1 = Rectangulo(3,8, 'verde')
-rectangulo1.alto = 15
-print(f'Calculo del area del rectangulo: {rectangulo1.calcular_area()}')
+print("Creación de objeto clase Rectangulo".center(50, "_"))
+rectangulo1 = Rectangulo(3, 9, "Verde")
+rectangulo1.ancho = 8
+print(f"Cálculo del área del rectángulo: {rectangulo1.calcular_area()}")
+print(rectangulo1)
+
+# figura1 = FiguraGeometrica() No se puede instanciar, es abstracta
+print(Cuadrado.mro())
+
+
+

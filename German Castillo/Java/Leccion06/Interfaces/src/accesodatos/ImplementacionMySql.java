@@ -1,7 +1,7 @@
 
 package accesodatos;
 
-public class ImplementacionMySql implements IAccesoDatos {
+public class ImplementacionMySql implements IAccesoDatos{
 
     @Override
     public void insertar() {
@@ -10,7 +10,7 @@ public class ImplementacionMySql implements IAccesoDatos {
 
     @Override
     public void listar() {
-        System.out.println("Listar desde MySql");
+        System.out.println("listar desde MySql");
     }
 
     @Override
@@ -22,5 +22,6 @@ public class ImplementacionMySql implements IAccesoDatos {
     public void eliminar() {
         System.out.println("Eliminar desde MySql");
     }
+    
     
 }
