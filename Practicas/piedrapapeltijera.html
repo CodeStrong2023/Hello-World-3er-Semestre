@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piedra, papel y tijera</title>
+    <script>
+        // 1 será piedra, 2 será papel 3 será tijera
+        let max = 3
+        let min = 1
+        let jugador = 0
+        let pcMax = parseInt(prompt("Ingrese el valor máximo para el número aleatorio de la computadora:"))
+        let pcMin = parseInt(prompt("Ingrese el valor mínimo para el número aleatorio de la computadora:"))
+        let pc = Math.floor(Math.random() * (pcMax - pcMin + 1) + pcMin)
+        jugador = prompt("Elige : 1 Piedra, 2 Papel, 3 Tijera")
+
+        //alert("Elige jugador"+jugador)
+        if(jugador == 1){
+            alert("Elegiste Piedra")
+        } else if(jugador == 2){
+            alert("Elegiste Papel")
+        } else if(jugador == 3){
+            alert("Elegiste Tijera")
+        } else{
+            alert("Elegiste perder")
+        }
+
+        //Combate
+        if(pc == jugador){
+            alert("Empate")
+        } else if(jugador == 1 && pc == 3){
+            alert("Ganaste")
+        } else if(jugador == 2 && pc == 1){
+            alert("Ganaste")
+        } else if(jugador == 3 && pc == 2){
+            alert("Ganaste")
+        } else {
+            alert("Perdiste")
+        }
+</script>
+
+</head>
+<body>
+    
+</body>
+</html>
