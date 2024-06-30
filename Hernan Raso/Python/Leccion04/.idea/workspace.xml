@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b3a0c5e-7394-466a-a31b-feeda90bed63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion04/InstanceOf/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion04/InstanceOf/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion04/InstanceOf/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion04/InstanceOf/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion05/ClaseAbstracta/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion05/ClaseAbstracta/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion05/ClaseAbstracta/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion05/ClaseAbstracta/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion05/ConversionObjetos/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion05/ConversionObjetos/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion05/ConversionObjetos/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion05/ConversionObjetos/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion05/JavaApplication43/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion05/JavaApplication43/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion05/JavaApplication43/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion05/JavaApplication43/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion06/Interfaces/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion06/Interfaces/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion06/Interfaces/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion06/Interfaces/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion07/JavaBeans/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion07/JavaBeans/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion07/JavaBeans/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion07/JavaBeans/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion08/ManejoExcepciones1/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion08/ManejoExcepciones1/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion08/ManejoExcepciones1/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion08/ManejoExcepciones1/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leccion3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leccion3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leccion3/TestOrdenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Leccion3/TestOrdenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/Persona.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sobrecarga_operadores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sobrecarga_operadores.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ffHsQnmtUx5NYsJWMFVOzvhSyO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Persona.executor": "Run",
+    "Python.Sobrecarga_operadores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Florencia",
+    "last_opened_file_path": "C:/Users/herna/Desktop/clone flor/Hello-World-3er-Semestre/Flor Carballo/Python/Leccion4"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Sobrecarga_operadores">
+    <configuration name="Persona" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonProject1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Persona.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sobrecarga_operadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonProject1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sobrecarga_operadores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sobrecarga_operadores" />
+        <item itemvalue="Python.Persona" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b3a0c5e-7394-466a-a31b-feeda90bed63" name="Changes" comment="" />
+      <created>1714185417535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714185417535</updated>
+    </task>
+    <servers />
+  </component>
+</project>
