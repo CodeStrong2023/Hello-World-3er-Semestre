@@ -53,7 +53,7 @@ class Persona:
 if __name__ == '__main__':
     persona1 = Persona(1, 'Juan', 'Perez', 'jperez@gmail.com')
     log.debug(persona1)
-    persona2 = Persona(nombre='Jose', apellido='Lepez', email='ljose@gmail.com')
+    persona2 = Persona(nombre='Jose', apellido='Lepez', email='jlepez@gmail.com')
     log.debug(persona2)
     persona1 = Persona(id_persona = 1)
     log.debug(persona1)

@@ -38,3 +38,27 @@
 09:09:59 PM:DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <cursor object at 0x0000026CBEFEF140; closed: 0>
 09:12:04 PM:DEBUG [Conexion.py:24] Conexión Exitosa: <connection object at 0x000001978AEBCE10; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
 09:12:04 PM:DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <cursor object at 0x000001978AB5F140; closed: 0>
+02:56:32 AM:DEBUG [Persona.py:55] 
+            Id persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@gmail.com
+        
+02:56:32 AM:DEBUG [Persona.py:57] 
+            Id persona: None,
+            Nombre: Jose,
+            Apellido: Lepez,
+            Email: jlepez@gmail.com
+        
+02:56:32 AM:DEBUG [Persona.py:59] 
+            Id persona: 1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+02:56:50 AM:DEBUG [cursor_del_pool.py:10] Inicio del métodos with y __enter__
+02:56:50 AM:DEBUG [Conexion.py:40] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DB516439D0>
+02:56:50 AM:DEBUG [Conexion.py:20] Conexion obtenida del pool: <connection object at 0x000001DB51581BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+02:56:50 AM:DEBUG [cursor_del_pool.py:16] Se ejecuta el método exit
+02:56:50 AM:DEBUG [cursor_del_pool.py:19] Ocurrió una excepción: 'int' object does not support indexing
+02:56:50 AM:DEBUG [Conexion.py:51] Regresamos la conexion del pool: <connection object at 0x000001DB51581BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
